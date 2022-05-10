@@ -32,7 +32,7 @@ public class ServerApp {
                     int choice = Integer.parseInt(in.readLine());
                     switch (choice) {
                         case 1:
-                            out.println("Thank you for your choice! You are watching BDSM porno now!");
+                            out.println("Thank you for your choice! You are watching \"2 Girls 1 Cup\" now!");
                             out.println("end!");
                         case 2:
                             out.println("Thank you for your choice! You are watching RickRoll now!");
